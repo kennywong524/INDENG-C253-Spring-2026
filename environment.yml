@@ -1,0 +1,15 @@
+name: calyber_env
+channels:
+  - conda-forge
+dependencies:
+  - numpy==1.24.3
+  - pandas==1.5.3
+  - matplotlib==3.7.1
+  - haversine==2.9.0
+  - folium==0.20.0
+  - joblib==1.5.1
+  - scipy==1.12.0
+  - scikit-learn==1.4.0
+  - statsmodels==0.14.5
+  - jupyter
+  - ipython
